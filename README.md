@@ -6,8 +6,8 @@ To play, simply open "index.html" in any web browser.
 
 ## Dependencies:
 This game has dependencies on the Bootstrap, jQuery, and Font Awesome libraries.
-Bootstrap: https://getbootstrap.com/
-jQuery: https://jquery.com/
-Font Awesome: http://fontawesome.io/
+*Bootstrap: https://getbootstrap.com/
+*jQuery: https://jquery.com/
+*Font Awesome: http://fontawesome.io/
 
 This project used the starter code provided to students by Udacity.
