@@ -1,10 +1,10 @@
 # Matching Memory Game
 This Matching Game was made for a Udacity Intro to Programming class.
 
-##Instructions:
+## Instructions:
 To play, simply open "index.html" in any web browser.
 
-##Dependencies:
+## Dependencies:
 This game has dependencies on the Bootstrap, jQuery, and Font Awesome libraries.
 Bootstrap: https://getbootstrap.com/
 jQuery: https://jquery.com/
