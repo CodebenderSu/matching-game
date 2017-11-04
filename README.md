@@ -1,6 +1,8 @@
 # Matching Memory Game
 This Matching Game was made for a Udacity Intro to Programming class.
 
+![Cover Image](img/cover.png)
+
 ## Instructions:
 To play, simply open "index.html" in any web browser.
 
