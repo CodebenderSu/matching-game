@@ -57,7 +57,7 @@ function generate(array) {
     $(".deck").append('<div class="card">\n\
                         <figure class="front"></figure>\n\
                         <figure class="back">\n\
-                          <i class="fa ' + item + ' fa-2x"></i>\n\
+                          <i class="fa ' + item + '"></i>\n\
                         </figure>\n\
                       </div>');
   });
@@ -135,8 +135,6 @@ function score() {
   } else if (moves == 13) {
     $(".fa-star").last().addClass("fa-star-o").removeClass("fa-star");
   } else if (moves == 17) {
-    $(".fa-star").last().addClass("fa-star-o").removeClass("fa-star");
-  } else if (moves == 21) {
     $(".fa-star").last().addClass("fa-star-o").removeClass("fa-star");
   };
   return;
